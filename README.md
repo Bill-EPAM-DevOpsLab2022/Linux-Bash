@@ -1,2 +1,2 @@
 # linux.bash
-Linux+Bash. Home Task 1
+Linux+Bash. Home Task 1.
